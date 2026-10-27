@@ -1,0 +1,9 @@
+# YOLO — phát hiện ngáp (Lớp B)
+path: datasets/yawn
+train: images/train
+val: images/val
+test: images/test
+nc: 2
+names:
+  0: yawn
+  1: no yawn
